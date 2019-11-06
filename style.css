@@ -1,0 +1,78 @@
+body {
+	font-family: 'Lato', sans-serif;
+	font-size: 20px ;
+	text-justify: center; 
+	text-decoration: none;
+	background-color: rgb(230, 230,230);
+	color: rgb(30,30,30);
+}
+
+h1 {
+	color: black ;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18
+	font: bold;
+}
+
+h2 {  
+	color: grey ;
+	font-family: 'Raleway', sans-serif;
+	font-size: 16
+	font: italic;
+}
+
+img { 
+	height: 180px;
+ }
+
+.socialfacebook {
+	display: inline;
+}
+
+.link-social {
+	color: black;
+	font-family : 'Lato', sans-serif;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+
+.button-linkedin {
+	color: white;
+	background: #0084FF;
+	border-radius:4px;
+	padding: 16px 22px;
+	text-decoration: none;
+}
+
+.logo-social {
+	height: 30px
+}
+
+.card { box-shadow: 0 10px 30px #ACA9A9 ;
+				border-radius: 20px;
+		width: 700px;
+		margin: 40px auto;
+		background-color: white ;
+		padding-top: 1px;
+		padding-bottom: 1px;
+		text-align: center;
+}
+
+
+.container {
+	align-items: center;
+	padding: 16px 40px;
+	border-radius: 4px
+	box-shadow: 0 1px 0px rgba(0,0,0,1);
+				border-radius: 5px;
+		width: 700px;
+		margin: 40px auto;
+		background-color: white ;
+		padding-top: 30px;
+		padding-bottom: 30px;
+		text-align: center;
+
+}
+
+
